@@ -1,0 +1,50 @@
+/* All elements */
+* {
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+/* NAVBAR */
+.navbar {
+	background-color: #FD8D40;
+	font-family: serif;
+}
+
+.navbar-nav {
+	margin: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: #fff;
+	font-size: 30px;
+}
+
+.navbar-collapse {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+#menu {
+	background-color: #F7F299;
+	text-align: center;
+	color: #fff;
+	font-size: 1.8em;
+}
+
+/* MAIN PAGE */
+body {
+	font-family: serif;
+}
+
+.container {
+	margin: ;
+}
+.poem {
+	text-align: center;
+	background-clip: content-box;
+	background-color: #F7F299;
+	padding-bottom: 10px;
+}
+
+
+
